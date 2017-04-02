@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */ 
+.outerContainer { 
+   background: #02027a;
+   float:left;
+}
+.innerContainer {
+   background: #aed8e6; 
+   width:150px; 
+   padding:10px;
+   margin:25px;
+}
